@@ -1,17 +1,17 @@
 ![Профиль](https://vokzal1853.ru/upload/iblock/25b/5lgt5ed2koynacar3y736p941kjllzx8.jpg)
 
-👋 Привет, я Назаркулов Рамазан  
+👋 Hi, I’m Nazarkulov Ramazan  
 
-👀 Меня интересует TypeScript
+👀 I’m interested in TypeScript
 
-🌱 В настоящее время я изучаю ...
+🌱 I’m currently learning ...
 
-💞️ Я ищу сотрудничество в ...
+💞️ I’m looking to collaborate on ...
 
-📫 Как со мной связаться: 
-   - Email: nazarku10vv@gmail.com
-   - Телефон: +996501906987 
+📫 How to reach me 
+   Email: nazarku10vv@gmail.com
+   Phone: +996501906987 
 
-😄 Мои местоимения: Мальчик
+😄 Pronouns: Boy
 
-⚡ Забавный факт: Я знаком с HTML, CSS, DOM, JavaScript, React, Firebase, Tailwind CSS, Material-UI, Redux и TypeScript.
+⚡ Fun fact: I am familiar with HTML, CSS, DOM, JavaScript, React, Firebase, Tailwind CSS, Material-UI, Redux, and TypeScript.
